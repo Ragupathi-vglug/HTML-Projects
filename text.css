@@ -1,0 +1,14 @@
+text.css
+body{
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    background:black url(madara5.jpg) no-repeat ;
+    background-size: cover;
+
+}
+p{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
